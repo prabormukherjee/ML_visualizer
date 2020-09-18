@@ -1,4 +1,7 @@
 # ML_visualizer
+
+Here I used streamlit to visualize a dataset, perform some quary on it, and finally train a machine learning model using sklearn. Finally I plotted some basic curve like ROC-AUC, Precision-Recall and confusion matrix on fly.    
+All instruction are provided here      
     
 ### Dataset 
 + Dataset can also be founf from *[here](https://archive.ics.uci.edu/ml/datasets/Mushroom)*    
